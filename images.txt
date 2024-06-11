@@ -2,6 +2,7 @@
 alpine
 mlikiowa/napcat-docker:latest
 xieshang1111/auto_spy:x86
+xieshang1111/spy_panel
 xiaoyaliu/alist:hostmode
 mzzsfy/auto-proxy-pool:latest
 containrrr/watchtower	
