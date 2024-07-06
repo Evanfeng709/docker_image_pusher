@@ -22,3 +22,5 @@ nyanmisaka/jellyfin:latest
 luomubiji/ntqq:latest	
 whyour/qinglong:2.11.3
 19970688/nastools-bt:latest
+linuxserver/qbittorrent
+jxxghp/moviepilot
